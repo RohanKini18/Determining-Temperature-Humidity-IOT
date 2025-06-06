@@ -1,5 +1,6 @@
 # Determining Temperature Humidity IOT
-Determining Temperature &amp; Humidity (DHT11, LCD I2C 16X2)
+Determining Temperature &amp; Humidity (DHT11, LCD I2C 16X2) <br>
+```A system that monitors and detects temperature and humidity levels in various environments, ensuring optimal conditions.```
 # Note
 A complete project setup featuring the source code, detailed circuit diagram, and output results everything you need to build and verify the system.
 ### 🚀 [**Live Circuit Simulator**](https://wokwi.com/projects/432933108104267777)
